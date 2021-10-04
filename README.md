@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##  Project 
+   In this project we learned about context api basics to do (Simple Project : Adding books and deleting book by id using context)
+
 ## Available Scripts
 
 In the project directory, you can run:
